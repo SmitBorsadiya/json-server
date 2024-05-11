@@ -1,0 +1,34 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Smit",
+            "city":"Ahmedabad",
+            "state":"Gujarat"
+        },
+        {
+            "id":2,
+            "name":"Prince",
+            "city":"Surat",
+            "state":"Gujarat"
+        },
+        {
+            "id":3,
+            "name":"Kuldip",
+            "city":"Bharuch",
+            "state":"Gujarat"
+        },
+        {
+            "id":4,
+            "name":"Yash",
+            "city":"Banglore",
+            "state":"Karnataka"
+        },
+        {
+            "id":5,
+            "name":"Darshil",
+            "city":"Chhattar",
+            "state":"Gujarat"
+        }
+    ]
+}
